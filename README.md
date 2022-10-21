@@ -12,7 +12,7 @@ Front-end and Ui/Ux developer
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
 <br />
 
@@ -51,8 +51,7 @@ i'm also learning Selenium and Ranorex tester for code testing.
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
 
 <br />
-<br />
-<br />
+
 
 <!-- web related skills section ends here  -->
 
@@ -61,13 +60,10 @@ i'm also learning Selenium and Ranorex tester for code testing.
 
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
 [<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
 [<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />]
 
 <br/>
-<br/>
-<br/>
+
 
 - Figma
 - Adobe suit
@@ -80,13 +76,6 @@ i'm also learning Selenium and Ranorex tester for code testing.
 
   <br/>
 
-<!-- github stats starts here  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
 
 <br/>
 
