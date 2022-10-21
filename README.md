@@ -107,7 +107,7 @@ i'm also learning Selenium and Ranorex tester for code testing.
 1. B.Sc. in Computer Science & Engineering  
    Eastern University  
    Dhaka, Bangladesh.
-3. Diploma in Computer Science & Technology
+3. Diploma in Computer Science & Technology  
    Feni Computer Institute
    Feni Bangladesh
 
