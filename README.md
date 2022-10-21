@@ -58,8 +58,9 @@ i'm also learning Selenium and Ranorex tester for code testing.
 <!-- web related skills section ends here  -->
 
 <br />   
-<br />
-#### Other Skills :
+<br />  
+
+###  Other Skills :
 
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
 [<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
