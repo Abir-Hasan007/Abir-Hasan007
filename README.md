@@ -46,8 +46,10 @@ i'm also learning Selenium and Ranorex tester for code testing.
 [<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
 [<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
 [<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
+
 <br />
 
 
