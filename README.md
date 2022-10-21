@@ -13,8 +13,8 @@ Front-end and Ui/Ux developer
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
+
+
 
 <!-- Contact me section ends here  -->
 
@@ -46,9 +46,6 @@ i'm also learning Selenium and Ranorex tester for code testing.
 [<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
 [<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
 [<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
 
 <br />
 
@@ -108,7 +105,7 @@ i'm also learning Selenium and Ranorex tester for code testing.
    Eastern University  
    Dhaka, Bangladesh.
 3. Diploma in Computer Science & Technology  
-   Feni Computer Institute
+   Feni Computer Institute  
    Feni Bangladesh
 
 <br />
