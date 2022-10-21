@@ -12,9 +12,10 @@ Front-end and Ui/Ux developer
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]  
 
 
+<br />
 
 <!-- Contact me section ends here  -->
 
@@ -50,12 +51,14 @@ i'm also learning Selenium and Ranorex tester for code testing.
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
 
-<br />
+<br />  
+
 
 
 <!-- web related skills section ends here  -->
 
-
+<br />   
+<br />
 #### Other Skills :
 
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
