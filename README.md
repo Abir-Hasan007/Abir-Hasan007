@@ -163,7 +163,7 @@ All rights reserved by Anisul Islam @2021
 [website]: http://www.abirhasan.com/
 [youtube]: https://www.youtube.com/c/anisulislamrubel
 [facebook]: https://www.facebook.com/abir.fci/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
+[linkedin]: https://www.linkedin.com/in/abir-hasan-432458135/
 [github]: https://github.com/anisul-Islam
 
 <!-- web related playlists starts here  -->
